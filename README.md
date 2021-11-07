@@ -1,2 +1,2 @@
 # Cellular_automata
-An implementation for cellular automata visualizer in Python and Tkinter 
+An implementation for cellular automata visualizer with Tkinter Python
